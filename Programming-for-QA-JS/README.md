@@ -36,7 +36,7 @@ The folder is organized into **3 subfolders**, each representing a different top
 - **JS-Basics**: Contains tasks related to JavaScript syntax, variables, conditionals, and loops.
 - **JS-Fundamentals**: Contains tasks focused on more fundamental concepts, such as arrays and basic functions.
 - **JS-Concepts-Exercise**: Contains tasks that explore more advanced JavaScript concepts, including objects, error handling, and object-oriented programming.
-- 
+
 ## How to Use:
 
 - Clone or download the repository to access the exercises.
