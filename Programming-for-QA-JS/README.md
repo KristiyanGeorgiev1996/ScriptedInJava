@@ -29,6 +29,14 @@ This folder contains my exercises and tasks from the **Programming for QA** cour
 6. **Error Handling**:
    - Using `try`, `catch`, and `finally` for handling exceptions and errors in JavaScript code.
 
+## Folder Structure:
+
+The folder is organized into **3 subfolders**, each representing a different topic within this module of the course. Each subfolder contains tasks related to that topic:
+
+- **JS-Basics**: Contains tasks related to JavaScript syntax, variables, conditionals, and loops.
+- **JS-Fundamentals**: Contains tasks focused on more fundamental concepts, such as arrays and basic functions.
+- **JS-Concepts-Exercise**: Contains tasks that explore more advanced JavaScript concepts, including objects, error handling, and object-oriented programming.
+- 
 ## How to Use:
 
 - Clone or download the repository to access the exercises.
