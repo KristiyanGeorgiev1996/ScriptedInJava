@@ -6,9 +6,9 @@ This folder contains tasks from the **JavaScript Fundamentals** section of the *
 
 ## 🔧 Tasks Overview:
 
-### 📝 Task 1: [Multiply the Number by 2]
+### 📝 Task 1: [Substring]
 **Problem Statement:**  
-Write a function that receives a **number** and prints as result that number multiplied by **two**.
+Write a function that receives a string and two numbers. The numbers will be a starting index and count of elements to substring. Print the result.
 
 ---
 
