@@ -36,7 +36,10 @@ The course introduces essential programming concepts that are crucial for unders
 
 ## 🧭 Project Structure
 
-📦 programming-for-qa-js ┣ 📂 01.JavaScript-Basics ┣ 📂 02.JavaScript-Fundamentals ┣ 📂 03.JS-Concepts-Exercise ┣ 📜 README.md
+📦 programming-for-qa-js 
+┣ 📂 01.JavaScript-Basics 
+┣ 📂 02.JavaScript-Fundamentals 
+┣ 📂 03.JS-Concepts-Exercise 
 
 Each folder includes:
 - ✅ Solved exercises
