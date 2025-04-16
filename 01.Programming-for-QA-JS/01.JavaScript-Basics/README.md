@@ -7,7 +7,7 @@ This folder contains tasks from the **JavaScript Basics** section of the **Progr
 ### Task 1: [Multiply the Number by 2]
 **Problem Statement:**
 
-<!-- Write a function that receives a number and prints as result that number multiplied by two. -->
+Write a function that receives a number and prints as result that number multiplied by two.
 
 ---
 
