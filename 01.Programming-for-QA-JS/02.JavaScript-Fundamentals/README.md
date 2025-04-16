@@ -27,17 +27,18 @@ Write a function that receives a text and a single word that you need to search.
 ### 📝 Task 4: [Format Grade]
 **Problem Statement:**  
 Write a function that receives a grade between 2.00 and 6.00 and prints a formatted line with grade and description.
-•	< 3.00 - "Fail"
-•	>= 3.00 and < 3.50 - "Poor"
-•	>= 3.50 and < 4.50 - "Good"
-•	>= 4.50 and < 5.50 - "Very good"
-•	>= 5.50 - "Excellent"
+
+- **< 3.00** – "Fail"
+- **>= 3.00 and < 3.50** – "Poor"
+- **>= 3.50 and < 4.50** – "Good"
+- **>= 4.50 and < 5.50** – "Very good"
+- **>= 5.50** – "Excellent"
 
 ---
 
 ### 📝 Task 5: [Math Power]
 **Problem Statement:**  
-Write a function that calculates and print the value of a number raised to a given power:
+Write a function that calculates and prints the value of a number raised to a given power.
 
 ---
 
@@ -49,27 +50,29 @@ Write a function that receives a string and a repeat count n. The function shoul
 
 ### 📝 Task 7: [Orders]
 **Problem Statement:**  
-Write a function that calculates the total price of an order and prints it on the console. The function should receive one of the following products: coffee, coke, water, snacks; and a quantity of the product. The prices for a single piece of each product are: 
-•	coffee – 1.50
-•	water – 1.00
-•	coke – 1.40
-•	snacks – 2.00
+Write a function that calculates the total price of an order and prints it on the console. The function should receive one of the following products: coffee, coke, water, snacks; and a quantity of the product. The prices for a single piece of each product are:
+
+- **coffee** – 1.50
+- **water** – 1.00
+- **coke** – 1.40
+- **snacks** – 2.00
+
 Print the result formatted to the second decimal place.
 
 ---
 
 ### 📝 Task 8: [Person Info]
 **Problem Statement:**  
-Write a function that receives 3 parameters, sets them to an object, and returns that object.
-The input comes as 3 separate strings in the following order: firstName, lastName, age.
+Write a function that receives 3 parameters, sets them to an object, and returns that object.  
+The input comes as 3 separate strings in the following order: **firstName**, **lastName**, **age**.
 
 ---
 
 ### 📝 Task 9: [City]
 **Problem Statement:**  
-Write a function that receives a single parameter – an object, containing five properties:
-{ name, area, population, country, postcode }
-Loop through all the keys and print them with their values in format: "{key} -> {value}"
+Write a function that receives a single parameter – an object, containing five properties:  
+{ name, area, population, country, postcode }  
+Loop through all the keys and print them with their values in format: `"{key} -> {value}"`.
 
 ---
 
@@ -78,4 +81,3 @@ Loop through all the keys and print them with their values in format: "{key} -> 
 Write a function that stores information about a person's name and phone number. The input is an array of strings with space-separated name and number. Replace duplicate names. Print the result as shown.
 
 ---
-
