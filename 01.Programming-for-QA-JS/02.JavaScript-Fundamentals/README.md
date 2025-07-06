@@ -4,69 +4,73 @@ This folder contains tasks from the **JavaScript Fundamentals** section of the *
 
 ---
 
-## 🔧 Tasks Overview:
+## 🔧 List of Tasks:
 
-### 📝 Task 1: [Extract Substring]  
-Create a function that takes a string and two numbers as input. The numbers represent the starting index and the length of the substring to extract. Print the resulting substring.
-
----
-
-### 📝 Task 2: [Word Censorship]  
-Write a function that receives a text and a word. Replace all occurrences of that word in the text with asterisks (*) matching the length of the word.
+### 📝 Task 1: [Substring Extraction]  
+Implement a function that accepts a string and two numbers indicating the start position and the length of the substring. Output the extracted substring.
 
 ---
 
-### 📝 Task 3: [Count Word Frequency]  
-Write a function that takes a text and a word to search for. Count and print the number of times the word appears in the text.
+### 📝 Task 2: [Censor Word in Text]  
+Create a function that takes a piece of text and a target word. Replace every instance of that word within the text with a series of asterisks (*) matching the word’s length.
 
 ---
 
-### 📝 Task 4: [Grade Formatter]  
-Write a function that receives a grade between 2.00 and 6.00 and prints the grade along with a description based on the following scale:
+### 📝 Task 3: [Count Occurrences]  
+Write a function that receives a text and a word to find. Count how many times the specified word appears in the text and print the total.
 
-- Less than 3.00 – "Fail"  
-- From 3.00 up to (but not including) 3.50 – "Poor"  
-- From 3.50 up to (but not including) 4.50 – "Good"  
-- From 4.50 up to (but not including) 5.50 – "Very good"  
+---
+
+### 📝 Task 4: [Grade Description]  
+Design a function that takes a grade between 2.00 and 6.00 and prints the grade alongside its corresponding description as follows:
+
+- Below 3.00 – "Fail"  
+- Between 3.00 (inclusive) and 3.50 (exclusive) – "Poor"  
+- Between 3.50 (inclusive) and 4.50 (exclusive) – "Good"  
+- Between 4.50 (inclusive) and 5.50 (exclusive) – "Very good"  
 - 5.50 and above – "Excellent"
 
 ---
 
-### 📝 Task 5: [Calculate Power]  
-Create a function that receives a number and a power, then calculates and prints the number raised to that power.
+### 📝 Task 5: [Exponentiation]  
+Create a function that takes a base number and an exponent, then prints the base raised to the given power.
 
 ---
 
-### 📝 Task 6: [Repeat String]  
-Write a function that receives a string and a repeat count. Return a new string with the original string repeated the specified number of times.
+### 📝 Task 6: [String Repetition]  
+Write a function that receives a string and a number, then returns a new string consisting of the original string repeated the specified number of times.
 
 ---
 
-### 📝 Task 7: [Order Calculator]  
-Write a function that calculates the total price of an order. The function receives a product name (coffee, water, coke, snacks) and quantity. Print the total price formatted to two decimal places.
+### 📝 Task 7: [Total Price Calculator]  
+Build a function that calculates the total cost based on a product and quantity. Supported products and their prices are:
 
-| Product | Price per unit ($) |
-|---------|--------------------|
-| coffee  | 1.50               |
-| water   | 1.00               |
-| coke    | 1.40               |
-| snacks  | 2.00               |
+| Product | Unit Price ($) |
+|---------|----------------|
+| coffee  | 1.50           |
+| water   | 1.00           |
+| coke    | 1.40           |
+| snacks  | 2.00           |
+
+Print the result with two decimal points.
 
 ---
 
 ### 📝 Task 8: [Create Person Object]  
-Write a function that receives three strings: firstName, lastName, and age. Return an object containing these properties.
+Implement a function that receives first name, last name, and age as strings and returns an object containing these properties.
 
 ---
 
-### 📝 Task 9: [Print City Info]  
-Write a function that receives an object with the following properties: name, area, population, country, postcode. Loop through the object and print each key and value in the format:  
+### 📝 Task 9: [Display City Details]  
+Write a function that accepts an object describing a city with properties: name, area, population, country, and postcode. Iterate over the object and print each property and its value in the format:  
 `{key} -> {value}`
 
 ---
 
-### 📝 Task 10: [Phone Book]  
-Write a function that stores people's names and phone numbers. The input is an array of strings with name and number separated by space. If a name appears more than once, update the phone number. Print each entry as:  
+### 📝 Task 10: [Phone Directory]  
+Create a function that takes an array of strings, each containing a name and a phone number separated by a space. Store this information in a directory. If the same name appears again, update the number. Finally, print each entry as:  
 `{name} -> {number}`
 
 ---
+
+> 📝 These tasks are inspired by educational material from SoftUni, adapted and rewritten here for practice purposes.
