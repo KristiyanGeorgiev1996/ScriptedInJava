@@ -1,4 +1,4 @@
-# Programming Fundamentals with C#
+# Programming Fundamentals with JavaScript
 
 This course marks the next step in SoftUni’s comprehensive software engineering training program. It introduces students to essential programming concepts that form the groundwork for mastering more advanced professional topics.
 
