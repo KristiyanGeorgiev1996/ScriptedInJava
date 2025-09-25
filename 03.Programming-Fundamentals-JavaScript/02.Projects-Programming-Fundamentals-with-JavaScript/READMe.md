@@ -1,6 +1,6 @@
-# 🚀 Beginner-Level C# Projects – SoftUni (Additional Practice)
+# 🚀 Beginner-Level JavaScript Projects – SoftUni (Additional Practice)
 
-This section of the repository contains additional C# projects created as part of the core programming curriculum. Each project demonstrates the application of fundamental concepts through simple and functional console-based applications.
+This section of the repository contains additional JS projects created as part of the core programming curriculum. Each project demonstrates the application of fundamental concepts through simple and functional console-based applications.
 
 The focus is on writing clean, well-structured code using standard programming practices.
 
@@ -40,9 +40,8 @@ A simple program that generates random, funny sentences by combining elements fr
 
 ## 🛠️ Technologies & Concepts
 
-- **Language:** C#  
-- **Platform:** .NET Core / .NET Framework  
-- **Development Environment:** Visual Studio / Visual Studio Code  
+- **Language:** JS   
+- **Development Environment:** Visual Studio Code  
 
 **Core Concepts Covered:**
 - Variables and data types  
@@ -60,4 +59,4 @@ These projects serve as practice tools for reinforcing foundational programming 
 - Writing clean, readable, and maintainable code  
 - Structuring logic into separate methods  
 - Handling user input and edge cases gracefully  
-- Gaining confidence in solving basic programming problems with C#  
+- Gaining confidence in solving basic programming problems with JS  
