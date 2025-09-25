@@ -46,7 +46,7 @@ If both participants pick the same symbol, the round ends in a draw.
 ## ▶️ How to Start
 
 1. Download or clone the repository.  
-2. Open the solution in Visual Studio or another C# IDE.  
+2. Open the solution in Visual Studio or another JS IDE.  
 3. Build and run the program.  
 4. Follow the console prompts to play.
 
