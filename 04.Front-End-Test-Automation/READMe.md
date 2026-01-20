@@ -40,3 +40,4 @@ The exercises in this repository aim to:
 - 🏗️ Provide a **solid foundation in JavaScript and asynchronous programming** for front-end automation.  
 - 💻 Demonstrate **practical skills in DOM manipulation, event handling, and asynchronous operations**, essential for modern web development and QA tasks.  
 - 📂 Highlight the ability to **organize projects, structure code, and handle asynchronous workflows**, which is crucial for automation and real-world testing scenarios.
+
